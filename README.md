@@ -17,7 +17,9 @@ Crowdfunding highlights certain projects via data. On this basis, some conclusio
    For better analysis, data from previous campaigns would be useful. That said, we could come to better conclusions if we could analyze and compare data from previous years for this platform.
 
 Other graphs could help to better refine the analysis:
+
 -The pie chart for example could better represent the percentage ratio of the variables (success, failed and canceled)
+
 -We could also study the correlation between the objective and the variables (goal/success/failure). It would be a good idea to try the Granger causality test (between Goal/successful/failed/country). 
 Overall, graphs reporting Crowdfunding data show a higher rate of successful campaigns compared to failed campaigns. For better economic and financial profitability in the future, crowdfunding should reduce the failure rate of campaign
 
